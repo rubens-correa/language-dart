@@ -23,8 +23,6 @@
    - O resultado será exibido no terminal.
 
 
-***//------//------//------//------//------//------//------//------//------//------//------//------//------//------//------//------//***
-
 # Instruções para Executar o Programa Dart no Replit
 
 1. **Acesse o Replit:**
